@@ -28,13 +28,16 @@ body
 
 .will
 {
-    border-radius: 20px;
-    width: 150px;
+    display: flex;
     justify-content: center;
     align-items: center;
-    display: grid;
-	/*grid-template-columns: 1fr 1fr;*/
-	gap: 5px;
+}
+
+.for-will-luz
+{
+    width:35%;
+    margin-left:75%;
+    margin-right:75%;
 }
 
 
