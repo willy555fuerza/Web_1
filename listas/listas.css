@@ -1,0 +1,44 @@
+body
+{
+    background-color: black;
+}
+
+tr
+{
+    color: red;
+}
+
+th
+{
+    color: tomato;
+}
+
+a
+{
+    color: cyan;
+}
+
+h1,h2,h3,h4
+{
+    color: white;
+}
+
+td
+{
+    text-align: center;
+}
+
+ol
+{
+    color: white;
+}
+
+p
+{
+    color: white;
+}
+
+ul
+{
+    color: white;
+}

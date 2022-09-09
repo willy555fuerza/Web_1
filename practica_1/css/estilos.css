@@ -1,0 +1,92 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+html
+{
+    background-image: url(/practica_1/img/comenzardenuevo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+}
+body
+{
+    height: 837px;
+    width: 750px;
+    background: rgba(255, 192, 203, 0.11);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+header
+{
+    height: 150px;
+    width: 750px;
+    background: rgba(106, 88, 54, 0.7);
+}
+
+#Logo
+{
+    height: 250px;
+    width: 250px;
+    background-color: rgba(133, 86, 27, 0.975);
+}
+
+#Baner
+{
+    height: 150px;
+    width: 500px;
+    background: rgb(60, 107, 207);
+    display: flex;
+    justify-content: center;
+    float: right;
+}
+
+
+nav
+{
+    height: 50px;
+    width: 750px;
+    background: red;
+}
+
+main
+{
+    height: 650px;
+    width: 750px;
+    background: rgb(247, 228, 228);
+}
+
+
+article
+{
+    height: 650px;
+    width: 450px;
+    background: orange;
+    float: right;
+}
+aside{
+    height: 650px;
+    width: 300px;
+    background: saddlebrown;
+    float: left;
+}
+
+footer
+{
+    height: 50px;
+    width: 750px;
+    background: pink;
+}
+
+a, p
+{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

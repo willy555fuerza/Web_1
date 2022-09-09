@@ -1,0 +1,47 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+html
+{
+    background-image: url(/practica_1/img/jessi.jpg);
+    /*background-repeat: no-repeat;*/
+}
+body
+{
+    height: 837px;
+    width: 750px;
+    margin: auto;
+}
+
+header
+{
+    height: 50px;
+    width: 750px;
+}
+
+nav
+{
+    height: 50px;
+    width: 750px;
+}
+
+main
+{
+    height: 650px;
+    width: 750px;
+}
+
+footer
+{
+    height: 50px;
+    width: 750px;
+}
+
+a, p
+{
+    color: red;
+    text-decoration: none;
+}
